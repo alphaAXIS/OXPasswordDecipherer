@@ -20,17 +20,17 @@ The ***\*OX Password Decipherer\**** is a custom-built tool designed to decrypt 
 
 #### Prerequisites
 
-​    a. A programming environment that supports the language in which the decipherer is written (C++).<br>    b. (Optional) Any dependencies required by the decipherer's source code.
+​    a. A programming environment that supports the language in which the decipherer is written (C++).<br>     b. (Optional) Any dependencies required by the decipherer's source code.
 
 #### Instructions
 
-​    a. Download the source code of the decipherer from the [GitHub repository](https://github.com/alphaAXIS/OXPasswordDecipherer/).<br>    b. Extract the source code to a directory of your choice.<br>    c. Open a terminal or command prompt and navigate to the directory containing the decipherer's source code.<br>    d. Follow any additional installation instructions specific to the decipherer (e.g., installing dependencies).<br>    e. Compile and/or run the decipherer according to the programming language's conventions.
+​    a. Download the source code of the decipherer from the [GitHub repository](https://github.com/alphaAXIS/OXPasswordDecipherer/).<br>     b. Extract the source code to a directory of your choice.<br>     c. Open a terminal or command prompt and navigate to the directory containing the decipherer's source code.<br>     d. Follow any additional installation instructions specific to the decipherer (e.g., installing dependencies).<br>     e. Compile and/or run the decipherer according to the programming language's conventions.
 
 ### 2. If you do not have a programming locale
 
 #### Instructions
 
-​    a. Download the executable file of the decipherer from the [GitHub repository](https://github.com/alphaAXIS/OXPasswordDecipherer/).<br>    b. Add the directory of this executable file to "Path".<br>    c. Then you can easily use it when opening "oxpd.exe" or inputting "oxpd" in the cmd. 
+​    a. Download the executable file of the decipherer from the [GitHub repository](https://github.com/alphaAXIS/OXPasswordDecipherer/).<br>     b. Add the directory of this executable file to "Path".<br>     c. Then you can easily use it when opening "oxpd.exe" or inputting "oxpd" in the cmd. 
 
 ## V. Key Mappings
 
